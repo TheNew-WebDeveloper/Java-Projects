@@ -1,4 +1,4 @@
-package assignments.Employee_Management_System;
+package Intermediate.Employee_Management_System;
 
 import java.util.ArrayList;
 import java.util.Scanner;
