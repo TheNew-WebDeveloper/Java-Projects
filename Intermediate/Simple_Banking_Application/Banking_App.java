@@ -1,4 +1,4 @@
-package assignments.Banking;
+package Simple_Banking_Application.Banking;
 
 import java.util.Scanner;
 
