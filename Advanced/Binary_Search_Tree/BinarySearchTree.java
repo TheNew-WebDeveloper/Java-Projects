@@ -1,4 +1,4 @@
-package assignments.Binary_Search_Tree;
+package Advanced.Binary_Search_Tree;
 
 public class BinarySearchTree {
     private TreeNode root;
