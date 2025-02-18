@@ -1,4 +1,4 @@
-package assignments.Library_Management_System;
+package Advanced.Library_Management_System;
 
 import java.sql.*;
 import java.util.Scanner;
