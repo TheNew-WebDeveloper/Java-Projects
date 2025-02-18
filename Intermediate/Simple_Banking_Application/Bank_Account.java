@@ -1,4 +1,4 @@
-package Intermediate.Banking;
+package Intermediate.Simple_Banking_Application.Banking;
 
 class BankAccount {
     private double balance;
