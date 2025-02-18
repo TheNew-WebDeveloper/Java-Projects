@@ -1,4 +1,4 @@
-package assignments.Multithreaded_Chat_Application;
+package Advanced.Multithreaded_Chat_Application;
 
 import java.io.*;
 import java.net.*;
