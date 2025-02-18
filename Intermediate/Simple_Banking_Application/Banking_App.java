@@ -1,4 +1,4 @@
-package Simple_Banking_Application.Banking;
+package Intermediate.Simple_Banking_Application;
 
 import java.util.Scanner;
 
